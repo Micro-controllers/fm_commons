@@ -1,0 +1,28 @@
+{
+    "name": "FM_Commons",
+    "version": "1.0.0",
+    "description": "Include files common to FM projects",
+    "keywords": "PN232, card, reader",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Micro-controllers/PN532_ClassicOP"
+    },
+    "export": {
+        "exclude": [
+            "main.cpp"
+        ]
+    },
+    "authors": [
+        {
+            "name": "PJMD",
+            "email": "pjmd@jptech.com",
+            "url": "https://www.ptech/contact",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://www.ptehch.com/",
+    "dependencies": {},
+    "frameworks": "*",
+    "platforms": "*"
+}
