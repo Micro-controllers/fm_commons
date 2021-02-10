@@ -5,7 +5,7 @@
     "keywords": "PN232, card, reader",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Micro-controllers/PN532_ClassicOP"
+        "url": "https://github.com/Micro-controllers/fm_commons"
     },
     "export": {
         "exclude": [
