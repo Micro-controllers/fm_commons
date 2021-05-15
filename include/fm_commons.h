@@ -1,3 +1,6 @@
+#ifndef _FM_COMMONS_H
+#define _FM_COMMONS_H
+
 #define SECTOR_NUM 16
 #define BLOCK_NUM 4
 #define COUNTER_SECTOR (uint8_t)3
@@ -12,3 +15,5 @@
 #define MAX_READER_ID 65535
 #define CARD_ID_SIZE 1
 #define MAX_CARD_ID 255
+
+#endif
